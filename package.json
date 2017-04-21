@@ -1,0 +1,33 @@
+{
+  "name": "md",
+  "version": "1.0.0",
+  "description": "Material Design Exercise",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/engr-rafael-carlos/Material-Design-Exercise.git"
+  },
+  "keywords": [
+    "Material",
+    "Design"
+  ],
+  "author": "Engr. Rafael Carlos G. Santiago",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/engr-rafael-carlos/Material-Design-Exercise/issues"
+  },
+  "homepage": "https://github.com/engr-rafael-carlos/Material-Design-Exercise#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-compass": "^2.1.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.1.2"
+  }
+}
